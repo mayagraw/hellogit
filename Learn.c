@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("hello world modified");
+printf("hello world mod");
 
 return 0;
 
